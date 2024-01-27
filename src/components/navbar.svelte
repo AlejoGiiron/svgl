@@ -51,6 +51,7 @@
   )}
 >
   <!-- Se le puso un aria-label al href="/" -->
+  <!-- Probando 2 -->
   <div class="flex items-center justify-between mx-auto">
     <div class="flex items-center space-x-2">
       <a href="/" aria-label="Go to the SVGL v4.1 home page">
